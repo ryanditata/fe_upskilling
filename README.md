@@ -1,6 +1,6 @@
-# 🚀 DinaCom Frontend 2026
+# 🚀 Upskilling Frontend
 
-Frontend project untuk **DinaCom 2026**, dibangun menggunakan **React + Vite + TypeScript** dengan arsitektur modular agar mudah di-scale dan di-maintain.
+Frontend project untuk **Upskilling**, dibangun menggunakan **React + Vite + TypeScript** dengan arsitektur modular agar mudah di-scale dan di-maintain.
 
 
 ## 🛠️ Tech Stack
@@ -24,14 +24,14 @@ Clone repository dan jalankan perintah berikut:
 **Clone repo**
 
 ```bash
-git clone https://github.com/dnccsemarang/fe_dinacom2026.git
+git clone https://github.com/ryanditata/fe_upskilling.git
 
 ```
 
 **Masuk ke folder project**
 
 ```bash
-cd fe_dinacom2026
+cd fe_upskilling
 ```
 
 **Install dependencies**
