@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <Routes>
-        {/* Halaman utama */}
+
         <Route index element={<LandingPage />} />
   
       </Routes>
