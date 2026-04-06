@@ -15,12 +15,12 @@ const LandingPage = () => {
   const API_URL = import.meta.env.VITE_API_URL;
 
   useEffect(() => {
-    fatchFAQs();
+    fetchFAQs();
   }, []);
 
-  const fatchFAQs = async () => {
+  const fetchFAQs = async () => {
     try {
-      const response = await fetch('${API_URL}/public/faqs}');
+      const response = await fetch(`${API_URL}/public/faqs`);
       const result = await response.json();
 
         if (result.meta.success) setFaqs(result.data);
